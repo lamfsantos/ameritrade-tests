@@ -1,0 +1,1 @@
+Quick example of how to request a list of symbols for AmeritradeAPI
